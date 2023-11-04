@@ -52,7 +52,7 @@ jobs:
         cd csm-export
         ls -al
       env:
-        LD_LIBRARY_PATH: /home/runner/work/lumenpnp/lumenpnp/squashfs-root/usr/lib
+        LD_LIBRARY_PATH: /home/runner/work/Rook_225/Rook_225/squashfs-root/usr/lib
 
     - name: Generate STL files
       run: |
@@ -63,22 +63,22 @@ jobs:
       if: github.event_name == 'release'
       run: |
         cd .github/workflows/scripts/stl-export
-        zip -9 -j /home/runner/work/lumenpnp/lumenpnp/LumenPnP-STLs-${{ github.event.release.tag_name }}.zip *.stl
+        zip -9 -j /home/runner/work/Rook_225/Rook_225/Rook_225-STLs-${{ github.event.release.tag_name }}.zip *.stl
         cd ../csm-export
 
     - name: Compress STL and DXF files for Artifacts
       if: github.event_name != 'release'
       run: |
         cd .github/workflows/scripts/stl-export
-        zip -9 -j ~/LumenPnP-STLs.zip *.stl
-        cd /home/runner/work/lumenpnp/lumenpnp/.github/workflows/scripts/csm-export
+        zip -9 -j ~/Rook_225-STLs.zip *.stl
+        cd /home/runner/work/rook_225/rook_225/.github/workflows/scripts/csm-export
 
     - name: Upload STLs as Artifacts
       if: github.event_name != 'release'
       uses: actions/upload-artifact@v2
       with:
-        name: LumenPnP-STLs
-        path: ~/LumenPnP-STLs.zip
+        name: rook_225-STLs
+        path: ~/rook_225-STLs.zip
         if-no-files-found: error
         retention-days: 60
 
@@ -86,8 +86,8 @@ jobs:
       if: github.event_name != 'release'
       uses: actions/upload-artifact@v2
       with:
-        name: LumenPnP-DXFs
-        path: ~/LumenPnP-DXFs.zip
+        name: rook_225-DXFs
+        path: ~/rook_225-DXFs.zip
         if-no-files-found: warn
         retention-days: 60
 
@@ -95,4 +95,4 @@ jobs:
       uses: softprops/action-gh-release@v1
       if: github.event_name == 'release'
       with:
-        files: LumenPnP-STLs-${{ github.event.release.tag_name }}.zip
+        files: rook_225-STLs-${{ github.event.release.tag_name }}.zip

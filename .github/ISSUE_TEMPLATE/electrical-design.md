@@ -1,9 +1,9 @@
 ---
 name: Electrical Design
-about: Issue template for the LumenPnP's electrical design
+about: Issue template for the Rook_225's electrical design
 title: "Your Title Here"
 labels: pcb, triage
-assignees: sphawes
+assignees: 'owenwvaughn'
 
 ---
 # Version Number

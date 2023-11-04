@@ -1,9 +1,9 @@
 ---
 name: Configuration
-about: Issue template for the LumenPnP's Marlin or OpenPnP Configuration
+about: Issue template for the Rook_225's Marlin or Klipper Configuration
 title: "Your Title Here"
 labels: 'triage'
-assignees: 'sphawes'
+assignees: 'owenwvaughn'
 
 ---
 # Version Number

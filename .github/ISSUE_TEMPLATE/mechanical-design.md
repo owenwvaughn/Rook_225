@@ -1,9 +1,9 @@
 ---
 name: Mechanical Design
-about: Issue template for the LumenPnP's mechanical design
+about: Issue template for the Rook_225's mechanical design
 title: "Your Title Here"
 labels: 'cad, triage'
-assignees: 'sphawes'
+assignees: 'owenwvaughn'
 
 ---
 # Version Number

@@ -7,7 +7,7 @@ import subprocess
 import os
 import sys
 
-dirName = "LumenPnP-" + sys.argv[1] + "/img"
+dirName = "Rook_225-" + sys.argv[1] + "/img"
 if not os.path.exists(dirName):
     os.mkdir(dirName)
     print("Directory " , dirName ,  " Created ")
