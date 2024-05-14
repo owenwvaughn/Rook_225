@@ -25,3 +25,5 @@ doc/resources
 # Hide STL models
 pnp/cad/3D-Prints/*.stl
 printer/cad/FDM/Bottom_front_left_frame.20240504-163831.FCBak
+printer/cad/assembly_textures.inc
+*.pov
