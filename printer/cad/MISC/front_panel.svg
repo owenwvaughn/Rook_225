@@ -1,17 +1,21 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="409.89819144mm" height="428.07786844mm" viewBox="0 0 409.89819144 428.07786844" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch020" transform="translate(-301.491278,7.133079) scale(1,-1)">
-<path id="Sketch020_w0000"  d="M 305.50988800000005 -416.92618000000004 L 707.3708600000001 -416.92618000000004 L 707.3708600000001 3.114468999999957 L 305.50988800000005 3.114468999999957 L 305.50988800000005 -416.92618000000004 " stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
-<circle cx="315.302987" cy="-387.15912000000003" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="315.307546" cy="-399.16735300000005" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="315.331946" cy="-411.153181" r="1.501675" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="315.306957" cy="-79.032328" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="315.301949" cy="-91.04012000000002" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="315.336032" cy="-103.02842500000001" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="315.313044" cy="-3.064195000000012" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="315.302105" cy="-15.06923500000002" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
-<circle cx="315.338594" cy="-27.057736000000006" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<g id="Sketch020" transform="translate(-301.491278,7.133082) scale(1,-1)">
+<path id="Sketch020_w0000"  d="M 305.50988800000005 -416.92617700000005 L 707.3708600000001 -416.92617700000005 L 707.3708600000001 3.114471999999978 L 305.50988800000005 3.114471999999978 L 305.50988800000005 -416.92617700000005 " stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="315.302987" cy="-387.159117" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="315.307546" cy="-399.16735" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="315.331946" cy="-411.153178" r="1.501675" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="315.306957" cy="-79.03232499999999" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="315.301949" cy="-91.040117" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="315.336032" cy="-103.02842199999999" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="315.313044" cy="-3.0641919999999914" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="315.302105" cy="-15.069232" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="315.338594" cy="-27.057732999999985" r="1.45" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="700.840454" cy="-379.002957" r="1.5" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="689.301514" cy="-379.01932999999997" r="1.5" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="689.287048" cy="-35.73136599999998" r="1.5" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="700.834167" cy="-35.69434799999999" r="1.5" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
 <title>b'Front_panel001'</title>
 </g>
 </svg>
