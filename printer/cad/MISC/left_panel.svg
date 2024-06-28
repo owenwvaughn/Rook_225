@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="422.05262568mm" height="428.32079868mm" viewBox="0 0 422.05262568 428.32079868" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch018" transform="translate(171.806698,174.899480) scale(1,-1)">
-<path id="Sketch018_w0000"  d="M -167.668927 170.761709 L -167.668927 -249.283548 L 246.108157 -249.283548 L 246.108157 170.761709 L -167.668927 170.761709 " stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<g id="Sketch017" transform="translate(171.806698,174.899480) scale(1,-1)">
+<path id="Sketch017_w0000"  d="M -167.668927 170.761709 L -167.668927 -249.283548 L 246.108157 -249.283548 L 246.108157 170.761709 L -167.668927 170.761709 " stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
 <circle cx="220.400489" cy="-231.130199" r="2.503293" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
 <circle cx="-147.992204" cy="-219.322068" r="1.498791" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
 <circle cx="-147.979177" cy="-231.322203" r="1.496296" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
@@ -17,6 +17,7 @@
 <circle cx="146.84434800000002" cy="155.693442" r="1.5" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
 <circle cx="220.372231" cy="146.700389" r="2.505235" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
 <circle cx="-97.64377299999998" cy="155.702673" r="1.5" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<circle cx="33.902358" cy="155.696341" r="1.5" stroke="#f1f3f5" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
 <title>b'Left_panel'</title>
 </g>
 </svg>
