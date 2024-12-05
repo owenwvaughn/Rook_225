@@ -75,7 +75,7 @@ jobs:
 
     - name: Upload STLs as Artifacts
       if: github.event_name != 'release'
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: rook_225-STLs
         path: ~/rook_225-STLs.zip
@@ -84,7 +84,7 @@ jobs:
 
     - name: Upload DXFs as Artifacts
       if: github.event_name != 'release'
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: rook_225-DXFs
         path: ~/rook_225-DXFs.zip
